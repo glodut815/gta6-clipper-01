@@ -1,7 +1,7 @@
 # Upload instructions for Ijul (YouTube)
 
 Upload `clip.mp4` from this repo to your own YouTube channel as a **public**
-Short (it is 23 seconds, vertical 1080x1920, so YouTube treats it as a Short).
+Short (it is 22 seconds, vertical 1080x1920, so YouTube treats it as a Short).
 Keep it public until the results are out (7 Dec 2026).
 
 ## Title
